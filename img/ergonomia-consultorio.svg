@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 450">
+  <defs>
+    <style>
+      text { font-family: system-ui, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="410" y="28" font-size="18" font-weight="700" fill="#2c3e50" text-anchor="middle">Diseño Ergonómico del Consultorio Dental</text>
+
+  <!-- ========== LAYOUT PRINCIPAL ========== -->
+
+  <!-- Zona primaria (15-25 cm) -->
+  <ellipse cx="280" cy="210" rx="90" ry="65" fill="#27ae60" fill-opacity="0.1" stroke="#27ae60" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="195" y="155" font-size="9" fill="#27ae60" font-weight="600">Zona primaria</text>
+  <text x="195" y="167" font-size="9" fill="#27ae60">15-25 cm</text>
+
+  <!-- Zona secundaria (25-45 cm) -->
+  <ellipse cx="280" cy="210" rx="160" ry="110" fill="#f39c12" fill-opacity="0.06" stroke="#f39c12" stroke-width="1" stroke-dasharray="8,4"/>
+  <text x="125" y="115" font-size="9" fill="#f39c12" font-weight="600">Zona secundaria</text>
+  <text x="125" y="127" font-size="9" fill="#f39c12">25-45 cm</text>
+
+  <!-- Sillón del paciente -->
+  <rect x="240" y="180" width="80" height="120" rx="16" fill="#3498db" stroke="#2471a3" stroke-width="2"/>
+  <text x="280" y="230" font-size="12" font-weight="600" fill="#fff" text-anchor="middle">Sillón</text>
+  <text x="280" y="246" font-size="11" fill="#d6eaf8" text-anchor="middle">Paciente</text>
+  <text x="280" y="275" font-size="9" fill="#fff" text-anchor="middle" opacity="0.8">40-55 cm</text>
+
+  <!-- Taburete del odontólogo -->
+  <rect x="248" y="90" width="64" height="55" rx="12" fill="#27ae60" stroke="#1e8449" stroke-width="2"/>
+  <text x="280" y="115" font-size="10" font-weight="600" fill="#fff" text-anchor="middle">Odontólogo</text>
+  <text x="280" y="130" font-size="9" fill="#d5f5e3" text-anchor="middle">sentado</text>
+
+  <!-- Flecha relación de altura -->
+  <line x1="230" y1="95" x2="230" y2="175" stroke="#5d6d7e" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="210" y="140" font-size="8" fill="#e74c3c" text-anchor="middle" transform="rotate(-90,210,140)">Asiento más alto</text>
+
+  <!-- Mesa de instrumental -->
+  <rect x="380" y="190" width="70" height="50" rx="6" fill="#e67e22" stroke="#d35400" stroke-width="1.5"/>
+  <text x="415" y="212" font-size="10" font-weight="600" fill="#fff" text-anchor="middle">Mesa</text>
+  <text x="415" y="226" font-size="9" fill="#fdebd0" text-anchor="middle">Instrumental</text>
+
+  <!-- Asistente dental -->
+  <circle cx="400" cy="310" r="20" fill="#9b59b6" stroke="#7d3c98" stroke-width="1.5"/>
+  <text x="400" y="314" font-size="9" font-weight="600" fill="#fff" text-anchor="middle">Asist.</text>
+
+  <!-- Lámpara operatoria -->
+  <rect x="260" y="55" width="40" height="10" rx="5" fill="#f1c40f" stroke="#d4ac0d" stroke-width="1.5"/>
+  <text x="280" y="50" font-size="9" fill="#e74c3c" font-weight="600" text-anchor="middle">Lámpara 25-30K lux</text>
+  <!-- Rayos de luz -->
+  <line x1="270" y1="65" x2="260" y2="175" stroke="#f1c40f" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+  <line x1="290" y1="65" x2="300" y2="175" stroke="#f1c40f" stroke-width="1" stroke-dasharray="3,3" opacity="0.5"/>
+  <text x="250" y="105" font-size="8" fill="#d4ac0d" font-weight="600">60-80°</text>
+
+  <!-- ========== POSTURA CORRECTA ========== -->
+  <rect x="530" y="55" width="270" height="200" rx="12" fill="#f0faf4" stroke="#27ae60" stroke-width="1.5"/>
+  <text x="665" y="82" font-size="14" font-weight="700" fill="#27ae60" text-anchor="middle">Postura Correcta</text>
+  <line x1="550" y1="92" x2="780" y2="92" stroke="#27ae60" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="550" y="115" font-size="11" fill="#2c3e50">✓  Espalda recta, respaldo lumbar</text>
+  <text x="550" y="135" font-size="11" fill="#2c3e50">✓  Pies apoyados en suelo</text>
+  <text x="550" y="155" font-size="11" fill="#2c3e50">✓  Codos 80-100° flexión</text>
+  <text x="550" y="175" font-size="11" fill="#2c3e50">✓  Muñecas en posición neutra</text>
+  <text x="550" y="195" font-size="11" fill="#2c3e50">✓  Asiento > altura sillón paciente</text>
+
+  <text x="550" y="222" font-size="11" font-weight="700" fill="#e74c3c">✗  Flexión cuello >20°</text>
+  <text x="550" y="242" font-size="11" font-weight="700" fill="#e74c3c">✗  Giros bruscos del tronco</text>
+
+  <!-- ========== ZONA DE ALCANCE ========== -->
+  <rect x="530" y="280" width="270" height="100" rx="12" fill="#eef3f8" stroke="#3498db" stroke-width="1"/>
+  <text x="665" y="305" font-size="14" font-weight="700" fill="#2980b9" text-anchor="middle">Zonas de Alcance</text>
+  <text x="550" y="330" font-size="11" fill="#2c3e50">🟢 Primaria: 15-25 cm — Instrumental más usado</text>
+  <text x="550" y="350" font-size="11" fill="#2c3e50">🟡 Secundaria: 25-45 cm — Uso frecuente</text>
+  <text x="550" y="370" font-size="11" fill="#2c3e50">🔴 Terciaria: >45 cm — Uso ocasional</text>
+
+  <!-- ========== ILUMINACIÓN ========== -->
+  <rect x="530" y="395" width="270" height="45" rx="8" fill="#fff9e6" stroke="#f1c40f" stroke-width="1"/>
+  <text x="665" y="418" font-size="11" fill="#2c3e50" text-anchor="middle">💡 Lámpara: 25,000-30,000 lux · Ambiental: ≥500 lux</text>
+  <text x="665" y="433" font-size="10" fill="#5d6d7e" text-anchor="middle">Temperatura: 5,000-5,500K (luz blanca neutra)</text>
+
+  <!-- ========== DIMENSIONES ========== -->
+  <text x="280" y="370" font-size="10" fill="#5d6d7e" text-anchor="middle">Altura sillón: 40-55 cm</text>
+  <text x="280" y="385" font-size="10" fill="#5d6d7e" text-anchor="middle">Taburete: base 5 ruedas, respaldo lumbar</text>
+  <text x="280" y="400" font-size="10" fill="#5d6d7e" text-anchor="middle">Sin reposabrazos</text>
+
+  <!-- ========== LMS ========== -->
+  <rect x="10" y="330" width="200" height="100" rx="10" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+  <text x="110" y="355" font-size="12" font-weight="700" fill="#e74c3c" text-anchor="middle">Lesiones más frecuentes</text>
+  <text x="22" y="375" font-size="10" fill="#2c3e50">Lumbalgia: 60-70%</text>
+  <text x="22" y="390" font-size="10" fill="#2c3e50">Cervicalgia: 40-60%</text>
+  <text x="22" y="405" font-size="10" fill="#2c3e50">Tendinitis: 20-40%</text>
+  <text x="22" y="420" font-size="10" fill="#2c3e50">Túnel carpiano: 10-15%</text>
+</svg>

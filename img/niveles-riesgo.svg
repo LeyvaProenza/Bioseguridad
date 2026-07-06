@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380">
+  <defs>
+    <style>
+      text { font-family: system-ui, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="410" y="30" font-size="18" font-weight="700" fill="#2c3e50" text-anchor="middle">Niveles de Riesgo y EPP en Odontología</text>
+
+  <!-- ========== NIVEL BAJO ========== -->
+  <rect x="10" y="55" width="255" height="140" rx="12" fill="#27ae60"/>
+  <text x="25" y="80" font-size="14" font-weight="700" fill="#fff">● NIVEL BAJO</text>
+  <text x="25" y="100" font-size="11" fill="#d5f5e3">Procedimientos sin aerosoles</text>
+  <line x1="25" y1="110" x2="250" y2="110" stroke="#fff" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="25" y="126" font-size="10" fill="#eafaf1">• Consulta general y revisión</text>
+  <text x="25" y="142" font-size="10" fill="#eafaf1">• Radiografías intraorales</text>
+  <text x="25" y="158" font-size="10" fill="#eafaf1">• Impresiones, fluoruros</text>
+  <text x="25" y="178" font-size="10" fill="#fff" font-weight="600">→ EPP: Guantes + Mascarilla + Gafas</text>
+
+  <!-- ========== NIVEL MODERADO ========== -->
+  <rect x="282" y="55" width="255" height="140" rx="12" fill="#f39c12"/>
+  <text x="297" y="80" font-size="14" font-weight="700" fill="#fff">● NIVEL MODERADO</text>
+  <text x="297" y="100" font-size="11" fill="#fef9e7">Procedimientos con aerosoles</text>
+  <line x1="297" y1="110" x2="522" y2="110" stroke="#fff" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="297" y="126" font-size="10" fill="#fef9e7">• Limpieza con ultrasonido</text>
+  <text x="297" y="142" font-size="10" fill="#fef9e7">• Operatoria con turbine</text>
+  <text x="297" y="158" font-size="10" fill="#fef9e7">• Endodoncia, odontopediatría</text>
+  <text x="297" y="178" font-size="10" fill="#fff" font-weight="600">→ + N95 + Cofia + Bata</text>
+
+  <!-- ========== NIVEL ALTO ========== -->
+  <rect x="554" y="55" width="255" height="140" rx="12" fill="#e74c3c"/>
+  <text x="569" y="80" font-size="14" font-weight="700" fill="#fff">● NIVEL ALTO</text>
+  <text x="569" y="100" font-size="11" fill="#fdedec">Procedimientos quirúrgicos</text>
+  <line x1="569" y1="110" x2="794" y2="110" stroke="#fff" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="569" y="126" font-size="10" fill="#fdedec">• Cirugía oral, exodoncia</text>
+  <text x="569" y="142" font-size="10" fill="#fdedec">• Implantología, osteotomías</text>
+  <text x="569" y="158" font-size="10" fill="#fdedec">• Endodoncia con ultrasonido</text>
+  <text x="569" y="178" font-size="10" fill="#fff" font-weight="600">→ + Guantes dobles + Pantalla + Mandil</text>
+
+  <!-- ========== RIESGO DE TRANSMISIÓN ========== -->
+  <rect x="10" y="215" width="800" height="120" rx="12" fill="#f8f9fa" stroke="#dce1e8" stroke-width="1"/>
+  <text x="410" y="245" font-size="14" font-weight="700" fill="#2c3e50" text-anchor="middle">Riesgo de Transmisión por Pinchazo con Sangre Contaminada</text>
+
+  <!-- HBV -->
+  <rect x="40" y="265" width="230" height="55" rx="10" fill="#e74c3c"/>
+  <text x="155" y="288" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Hepatitis B (HBV)</text>
+  <text x="155" y="310" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">6 - 30%</text>
+
+  <!-- HCV -->
+  <rect x="295" y="265" width="230" height="55" rx="10" fill="#e67e22"/>
+  <text x="410" y="288" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Hepatitis C (HCV)</text>
+  <text x="410" y="310" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">1.8%</text>
+
+  <!-- HIV -->
+  <rect x="550" y="265" width="230" height="55" rx="10" fill="#8e44ad"/>
+  <text x="665" y="288" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">HIV</text>
+  <text x="665" y="310" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">0.3%</text>
+
+  <!-- Footer -->
+  <text x="410" y="365" font-size="10" fill="#5d6d7e" text-anchor="middle">Sin vacuna: HBV riesgo 6-30% · Con vacuna: riesgo 1-6% · HCV sin profilaxis · HIV PEP ≤72h</text>
+</svg>

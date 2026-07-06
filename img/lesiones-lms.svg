@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280">
+  <text x="400" y="25" font-family="system-ui" font-size="17" font-weight="700" fill="#2c3e50" text-anchor="middle">Lesiones Musculoesqueléticas en Odontología</text>
+
+  <!-- Lumbalgia -->
+  <rect x="10" y="50" width="180" height="160" rx="10" fill="#e74c3c"/>
+  <text x="100" y="75" font-family="system-ui" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Lumbalgia</text>
+  <text x="100" y="95" font-family="system-ui" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">60-70%</text>
+  <text x="100" y="115" font-family="system-ui" font-size="9" fill="#fdedec" text-anchor="middle">Discos L4-L5, L5-S1</text>
+  <text x="100" y="132" font-family="system-ui" font-size="9" fill="#fdedec" text-anchor="middle">+40% presión intradiscal</text>
+  <text x="100" y="149" font-family="system-ui" font-size="9" fill="#fdedec" text-anchor="middle">sentado vs parado</text>
+  <text x="100" y="170" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Causa:</text>
+  <text x="100" y="185" font-family="system-ui" font-size="8" fill="#fff">Posturas mantenidas</text>
+  <text x="100" y="198" font-family="system-ui" font-size="8" fill="#fff">Flexión del tronco</text>
+
+  <!-- Cervicalgia -->
+  <rect x="205" y="50" width="180" height="160" rx="10" fill="#e67e22"/>
+  <text x="295" y="75" font-family="system-ui" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Cervicalgia</text>
+  <text x="295" y="95" font-family="system-ui" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">40-60%</text>
+  <text x="295" y="115" font-family="system-ui" font-size="9" fill="#fef9e7" text-anchor="middle">Trapecio superior</text>
+  <text x="295" y="132" font-family="system-ui" font-size="9" fill="#fef9e7" text-anchor="middle">Esternocleidomastoideo</text>
+  <text x="295" y="149" font-family="system-ui" font-size="9" fill="#fef9e7" text-anchor="middle">Escalenos</text>
+  <text x="295" y="170" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Causa:</text>
+  <text x="295" y="185" font-family="system-ui" font-size="8" fill="#fff">Flexión del cuello</text>
+  <text x="295" y="198" font-family="system-ui" font-size="8" fill="#fff">Iluminación deficiente</text>
+
+  <!-- Tendinitis -->
+  <rect x="400" y="50" width="180" height="160" rx="10" fill="#f39c12"/>
+  <text x="490" y="75" font-family="system-ui" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Tendinitis</text>
+  <text x="490" y="95" font-family="system-ui" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">20-40%</text>
+  <text x="490" y="115" font-family="system-ui" font-size="9" fill="#fef9e7" text-anchor="middle">Manguito rotador</text>
+  <text x="490" y="132" font-family="system-ui" font-size="9" fill="#fef9e7" text-anchor="middle">De Quervain (pulgar)</text>
+  <text x="490" y="149" font-family="system-ui" font-size="9" fill="#fef9e7" text-anchor="middle">Epicondilitis</text>
+  <text x="490" y="170" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Causa:</text>
+  <text x="490" y="185" font-family="system-ui" font-size="8" fill="#fff">Movimientos repetitivos</text>
+  <text x="490" y="198" font-family="system-ui" font-size="8" fill="#fff">Elevación del brazo</text>
+
+  <!-- Túnel carpiano -->
+  <rect x="595" y="50" width="180" height="160" rx="10" fill="#9b59b6"/>
+  <text x="685" y="75" font-family="system-ui" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Túnel Carpiano</text>
+  <text x="685" y="95" font-family="system-ui" font-size="22" font-weight="700" fill="#fff" text-anchor="middle">10-15%</text>
+  <text x="685" y="115" font-family="system-ui" font-size="9" fill="#ebdef0" text-anchor="middle">Nervio mediano</text>
+  <text x="685" y="132" font-family="system-ui" font-size="9" fill="#ebdef0" text-anchor="middle">Hormigueo, entumecimiento</text>
+  <text x="685" y="149" font-family="system-ui" font-size="9" fill="#ebdef0" text-anchor="middle">Dedos pulgar, índice, medio</text>
+  <text x="685" y="170" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Causa:</text>
+  <text x="685" y="185" font-family="system-ui" font-size="8" fill="#fff">Compresión nervio</text>
+  <text x="685" y="198" font-family="system-ui" font-size="8" fill="#fff">Posturas mantenidas</text>
+
+  <!-- Prevención -->
+  <rect x="10" y="225" width="780" height="45" rx="8" fill="#eaf6f0" stroke="#27ae60" stroke-width="1"/>
+  <text x="400" y="252" font-family="system-ui" font-size="11" fill="#1e8449" text-anchor="middle" font-weight="600">Prevención: Estiramientos 5 min/día · Pausas cada 60-90 min · Regla 20-20-20 · Ajuste ergonómico del equipo</text>
+</svg>

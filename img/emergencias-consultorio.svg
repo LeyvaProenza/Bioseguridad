@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <text x="400" y="25" font-family="system-ui" font-size="17" font-weight="700" fill="#2c3e50" text-anchor="middle">Emergencias Más Frecuentes en el Consultorio Dental</text>
+
+  <!-- Síncope -->
+  <rect x="10" y="50" width="250" height="190" rx="12" fill="#f39c12"/>
+  <text x="135" y="80" font-family="system-ui" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Síncope (50-60%)</text>
+  <text x="135" y="100" font-family="system-ui" font-size="10" fill="#fef9e7" text-anchor="middle">Desmayo — el más frecuente</text>
+  <line x1="30" y1="110" x2="240" y2="110" stroke="#fff" stroke-opacity="0.3"/>
+  <text x="30" y="128" font-family="system-ui" font-size="9" fill="#fef9e7">Causas:</text>
+  <text x="30" y="142" font-family="system-ui" font-size="9" fill="#fef9e7">• Miedo, ansiedad</text>
+  <text x="30" y="155" font-family="system-ui" font-size="9" fill="#fef9e7">• Anestesia local</text>
+  <text x="30" y="168" font-family="system-ui" font-size="9" fill="#fef9e7">• Posición supina prolongada</text>
+  <text x="30" y="188" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Manejo:</text>
+  <text x="30" y="202" font-family="system-ui" font-size="9" fill="#fff">• Posición Trendelenburg</text>
+  <text x="30" y="215" font-family="system-ui" font-size="9" fill="#fff">• Oxígeno</text>
+  <text x="30" y="228" font-family="system-ui" font-size="9" fill="#fff">• Compresión puntos presión</text>
+
+  <!-- Anafilaxia -->
+  <rect x="275" y="50" width="250" height="190" rx="12" fill="#e74c3c"/>
+  <text x="400" y="80" font-family="system-ui" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Anafilaxia</text>
+  <text x="400" y="100" font-family="system-ui" font-size="10" fill="#fdedec" text-anchor="middle">Reacción alérgica grave</text>
+  <line x1="295" y1="110" x2="505" y2="110" stroke="#fff" stroke-opacity="0.3"/>
+  <text x="295" y="128" font-family="system-ui" font-size="9" fill="#fdedec">Signos:</text>
+  <text x="295" y="142" font-family="system-ui" font-size="9" fill="#fdedec">• Urticaria, edema glotis</text>
+  <text x="295" y="155" font-family="system-ui" font-size="9" fill="#fdedec">• Hipotensión, broncoespasmo</text>
+  <text x="295" y="168" font-family="system-ui" font-size="9" fill="#fdedec">• Por anestésicos, antibióticos</text>
+  <text x="295" y="188" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Tratamiento:</text>
+  <text x="295" y="202" font-family="system-ui" font-size="9" fill="#fff">• Epinefrina 0.01-0.05 mg/kg IM</text>
+  <text x="295" y="215" font-family="system-ui" font-size="9" fill="#fff">• Oxígeno a alto flujo</text>
+  <text x="295" y="228" font-family="system-ui" font-size="9" fill="#fff">• Posición semifowler</text>
+
+  <!-- PCR -->
+  <rect x="540" y="50" width="250" height="190" rx="12" fill="#8e44ad"/>
+  <text x="665" y="80" font-family="system-ui" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Paro Cardíaco (PCR)</text>
+  <text x="665" y="100" font-family="system-ui" font-size="10" fill="#ebdef0" text-anchor="middle">Emergencia máxima</text>
+  <line x1="560" y1="110" x2="770" y2="110" stroke="#fff" stroke-opacity="0.3"/>
+  <text x="560" y="128" font-family="system-ui" font-size="9" fill="#ebdef0">RCP inmediata:</text>
+  <text x="560" y="142" font-family="system-ui" font-size="9" fill="#ebdef0">• 30 compresiones torácicas</text>
+  <text x="560" y="155" font-family="system-ui" font-size="9" fill="#ebdef0">• 2 ventilaciones de rescate</text>
+  <text x="560" y="168" font-family="system-ui" font-size="9" fill="#ebdef0">• Frecuencia: 100-120/min</text>
+  <text x="560" y="188" font-family="system-ui" font-size="9" fill="#fff" font-weight="600">Además:</text>
+  <text x="560" y="202" font-family="system-ui" font-size="9" fill="#fff">• Usar DEA si disponible</text>
+  <text x="560" y="215" font-family="system-ui" font-size="9" fill="#fff">• Profundidad: 5-6 cm</text>
+  <text x="560" y="228" font-family="system-ui" font-size="9" fill="#fff">• Hasta llegada emergencia</text>
+
+  <!-- Footer -->
+  <text x="400" y="270" font-family="system-ui" font-size="10" fill="#5d6d7e" text-anchor="middle">Todo consultorio debe contar con kit de emergencia y personal capacitado en primeros auxilios</text>
+  <text x="400" y="290" font-family="system-ui" font-size="9" fill="#9b59b6" text-anchor="middle" font-weight="600">Capacitación obligatoria según DS-2013 · Actualización periódica</text>
+</svg>

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "¿Qué son los decretos actualizados en la normativa de bioseguridad del Ecuador?",
+    "options": [
+      "Resoluciones legales del Estado que regulan las prácticas de seguridad y salud en el trabajo",
+      "Recomendaciones opcionales del MSP",
+      "Guías de estudio para universidades",
+      "Protocolos internacionales sin validez local"
+    ],
+    "correct": 0,
+    "feedback": "Los decretos son normas con fuerza legal emitidas por el gobierno que establecen obligatoriedad en el cumplimiento de protocolos de bioseguridad."
+  },
+  {
+    "question": "¿Qué es el permiso de funcionamiento de un establecimiento de salud?",
+    "options": [
+      "Documento legal obligatorio que autoriza operar cumpliendo requisitos de bioseguridad",
+      "Un certificado universario",
+      "Una recomendación del colegio de odontólogos",
+      "Un documento opcional para consultorios privados"
+    ],
+    "correct": 0,
+    "feedback": "El permiso de funcionamiento es un requisito legal que garantiza que el establecimiento cumple con las normas de infraestructura, bioseguridad y salubridad."
+  },
+  {
+    "question": "¿Cuál es la función principal del reglamento de bioseguridad del MSP?",
+    "options": [
+      "Establecer protocolos y procedimientos obligatorios para prevenir infecciones en establecimientos de salud",
+      "Definir salarios del personal de salud",
+      "Regular horarios de atención al público",
+      "Establecer precios de servicios dentales"
+    ],
+    "correct": 0,
+    "feedback": "El reglamento del MSP establece los protocolos obligatorios de limpieza, desinfección, esterilización, manejo de residuos y protección del personal."
+  },
+  {
+    "question": "¿Qué es una herramienta de análisis de postura en ergonomía odontológica?",
+    "options": [
+      "Método para evaluar y corregir la posición del odontólogo durante procedimientos",
+      "Un instrumento dental para mediciones",
+      "Un software de gestión de pacientes",
+      "Un tipo de anestesia"
+    ],
+    "correct": 0,
+    "feedback": "Las herramientas de análisis de postura (como RULA, REBA, OSHA) permiten identificar riesgos ergonómicos y diseñar intervenciones preventivas."
+  },
+  {
+    "question": "¿Qué aspectos se revisan en el proceso de obtención de un permiso de funcionamiento?",
+    "options": [
+      "Infraestructura, bioseguridad, personal capacitado, equipamiento y documentación legal",
+      "Solo el tamaño del local",
+      "Únicamente la cantidad de pacientes atendidos",
+      "Solo la antigüedad del profesional"
+    ],
+    "correct": 0,
+    "feedback": "El permiso verifica cumplimiento integral: infraestructura adecuada, protocolos de bioseguridad, personal con competencias, equipamiento mínimo y documentos legales."
+  },
+  {
+    "question": "¿Qué establece el Código púrpura del MSP Ecuador?",
+    "options": [
+      "Medidas específicas para prevenir transmisión de HIV, hepatitis B y C en establecimientos de salud",
+      "Protocolos de atención odontológica rutinaria",
+      "Normas de administración de consultorios",
+      "Reglamentos de educación continua"
+    ],
+    "correct": 0,
+    "feedback": "El Código púrpura es un protocolo específico del MSP para prevenir y manejar la exposición ocupacional a virus transmitidos por sangre."
+  },
+  {
+    "question": "¿Por qué es importante conocer la legislación laboral en salud ocupacional?",
+    "options": [
+      "Para proteger los derechos del trabajador y garantizar ambientes seguros",
+      "Solo para aprobar exámenes universitarios",
+      "No tiene relevancia práctica",
+      "Solo aplica a hospitales públicos"
+    ],
+    "correct": 0,
+    "feedback": "Conocer la legislación permite al odontólogo exigir condiciones seguras, conocer sus derechos y obligaciones, y actuar legalmente ante accidentes laborales."
+  },
+  {
+    "question": "¿Cuáles son los instrumentos legales que regulan la bioseguridad en Ecuador?",
+    "options": [
+      "Constitución, leyes orgánicas, decretos ejecutivos, acuerdos ministeriales y resoluciones del MSP",
+      "Solo el código penal",
+      "Únicamente normas internacionales",
+      "Solo reglamentos internos de cada universidad"
+    ],
+    "correct": 0,
+    "feedback": "La normativa incluye múltiples niveles: Constitución, Ley de Seguridad y Salud en el Trabajo, decretos del MSP y acuerdos ministeriales específicos."
+  },
+  {
+    "question": "¿Qué matrices se utilizan en la gestión de riesgos laborales en odontología?",
+    "options": [
+      "Matriz de identificación de peligros y evaluación de riesgos",
+      "Matriz de precios de servicios",
+      "Matriz de calificaciones académicas",
+      "Matriz de distribución de pacientes"
+    ],
+    "correct": 0,
+    "feedback": "La matriz de peligros y riesgos permite identificar amenazas, evaluar probabilidad e impacto, y establecer controles priorizados en el entorno odontológico."
+  },
+  {
+    "question": "¿Cuál es la responsabilidad del empleador respecto a la salud ocupacional del odontólogo?",
+    "options": [
+      "Proporcionar equipo de protección, capacitación y ambiente de trabajo seguro",
+      "Solo pagar el salario",
+      "No tiene responsabilidad sobre la salud del trabajador",
+      "Únicamente contratar un seguro médico"
+    ],
+    "correct": 0,
+    "feedback": "El empleador debe garantizar EPP, capacitación en bioseguridad, mantenimiento de equipos, atención de accidentes laborales y cumplimiento de la normativa vigente."
+  }
+]

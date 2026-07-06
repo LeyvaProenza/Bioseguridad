@@ -1,0 +1,112 @@
+[
+  {
+    "question": "¿Qué es la salud ocupacional en el contexto de la odontología?",
+    "options": [
+      "La rama que estudia y previene enfermedades y lesiones derivadas del trabajo odontológico",
+      "El control de infecciones en el consultorio",
+      "La administración de medicamentos al paciente",
+      "El diseño de sonrisas estéticas"
+    ],
+    "correct": 0,
+    "feedback": "La salud ocupacional en odontología se enfoca en prevenir accidentes, enfermedades profesionales y factores de riesgo que afectan al personal dental."
+  },
+  {
+    "question": "¿Cuáles son los factores de riesgo ergonomicos más comunes en odontología?",
+    "options": [
+      "Posturas mantenidas, movimientos repetitivos y diseño inadecuado del puesto",
+      "Solo el ruido del equipo dental",
+      "La iluminación del consultorio",
+      "El tipo de silla del paciente"
+    ],
+    "correct": 0,
+    "feedback": "Los factores ergonómicos principales son posturas estáticas prolongadas, movimientos repetitivos de la muñeca y cuello, y configuración inadecuada del equipo."
+  },
+  {
+    "question": "¿Qué lesiones musculoesqueléticas son más frecuentes en odontólogos?",
+    "options": [
+      "Tendinitis, lumbalgia, cervicalgia y síndrome del túnel carpiano",
+      "Fracturas de huesos",
+      "Quemaduras en las manos",
+      "Lesiones oculares únicamente"
+    ],
+    "correct": 0,
+    "feedback": "Las lesiones más comunes son tendinitis (muñeca), lumbalgia (espalda baja), cervicalgia (cuello) y síndrome del túnel carpiano por movimientos repetitivos."
+  },
+  {
+    "question": "¿Cuál es el propósito de la ergonomía en el consultorio dental?",
+    "options": [
+      "Adaptar el trabajo al profesional para prevenir lesiones y mejorar eficiencia",
+      "Reducir el tiempo de atención al paciente",
+      "Ahorrar energía eléctrica",
+      "Mejorar la estética del consultorio"
+    ],
+    "correct": 0,
+    "feedback": "La ergonomía busca optimizar la relación hombre-trabajo, reduciendo fatiga, lesiones y mejorando la calidad de atención."
+  },
+  {
+    "question": "¿Qué vacuna es MÁS importante para el personal odontológico?",
+    "options": [
+      "Hepatitis B",
+      "Vacuna contra el resfriado común",
+      "Vacuna contra la malaria",
+      "Vacuna contra el dengue"
+    ],
+    "correct": 0,
+    "feedback": "La hepatitis B es la vacuna prioritaria por el alto riesgo de exposición a sangre contaminada durante procedimientos dentales."
+  },
+  {
+    "question": "¿Qué protocolo se debe seguir ante una exposición a sangre?",
+    "options": [
+      "Lavar inmediatamente,_reportar, profilaxis y seguimiento",
+      "Ignorar si la herida es pequeña",
+      "Esperar 24 horas para actuar",
+      "Solo aplicar alcohol y continuar trabajando"
+    ],
+    "correct": 0,
+    "feedback": "Ante exposición: lavado inmediato con agua/soap, reporte al responsable, profilaxis post-exposición (PEP) y seguimiento serológico."
+  },
+  {
+    "question": "¿Qué es la RCP (Reanimación Cardiopulmonar)?",
+    "options": [
+      "Técnica de emergencia con compresiones torácicas y ventilación para mantener circulación",
+      "Un tipo de anestesia dental",
+      "Un protocolo de limpieza del consultorio",
+      "Una técnica de radiografía"
+    ],
+    "correct": 0,
+    "feedback": "La RCP es una maniobra de emergencia que combina compresiones torácicas y respiración de rescate para mantener oxigenación vital en paro cardiorrespiratorio."
+  },
+  {
+    "question": "¿Cómo debe configurarse ergonómicamente el equipo dental?",
+    "options": [
+      "Ajustar altura del sillón, posición de la lámpara y ángulo del instrumental según el procedimiento",
+      "Mantener todo en una posición fija permanente",
+      "Dejar todo lo más bajo posible",
+      "Colocar el instrumental lejos del alcance"
+    ],
+    "correct": 0,
+    "feedback": "El equipo debe ajustarse dinámicamente: sillón a altura adecuada, lámpara con buena iluminación, instrumental al alcance para minimizar giros y posturas forzadas."
+  },
+  {
+    "question": "¿Qué es el estrés laboral en odontología y por qué es importante?",
+    "options": [
+      "Respuesta psicológica al exceso de demandas que puede causar burnout y afectar la calidad de atención",
+      "Un fenómeno que solo afecta a gerentes",
+      "Algo que no existe en odontología",
+      "Solo causa cansancio físico temporal"
+    ],
+    "correct": 0,
+    "feedback": "El estrés laboral crónico puede derivar en burnout, afectando la salud del profesional y la calidad de atención al paciente. Su prevención es parte de la salud ocupacional."
+  },
+  {
+    "question": "¿Cuáles son los riesgos químicos más comunes en un consultorio dental?",
+    "options": [
+      "Amalgama dental, formaldehído, solventes y productos de limpieza",
+      "Solo la luz del láser",
+      "El sonido del turbine",
+      "Las radiografías dentales"
+    ],
+    "correct": 0,
+    "feedback": "Los riesgos químicos incluyen vapores de amalgama (mercurio), formaldehído (fijadores), solventes orgánicos y productos de limpieza con sustancias tóxicas."
+  }
+]

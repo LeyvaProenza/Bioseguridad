@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 775 141"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="cadena-transmision.svg"
+   width="775"
+   height="141"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.305"
+     inkscape:cx="382.86334"
+     inkscape:cy="42.516269"
+     inkscape:window-width="2896"
+     inkscape:window-height="1335"
+     inkscape:window-x="628"
+     inkscape:window-y="102"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0,0 10,3.5 0,7 "
+         fill="#e74c3c"
+         id="polygon1" />
+    </marker>
+    <style
+       id="style1">
+      .box { rx: 12; ry: 12; stroke-width: 2; }
+      .label { font-family: system-ui; font-size: 13px; font-weight: 600; fill: #fff; text-anchor: middle; }
+      .sublabel { font-family: system-ui; font-size: 10px; fill: #fff; text-anchor: middle; opacity: 0.9; }
+      .title { font-family: system-ui; font-size: 16px; font-weight: 700; fill: #2c3e50; text-anchor: middle; }
+      .break-text { font-family: system-ui; font-size: 11px; fill: #e74c3c; font-weight: 700; text-anchor: middle; }
+    </style>
+  </defs>
+  <text
+     x="406"
+     y="15"
+     class="title"
+     id="text1">Cadena de Transmisión de Infecciones</text>
+  <!-- Reservorio -->
+  <rect
+     x="12"
+     y="36"
+     width="130"
+     height="70"
+     class="box"
+     fill="#e74c3c"
+     stroke="#c0392b"
+     id="rect1" />
+  <text
+     x="77"
+     y="66"
+     class="label"
+     id="text2">RESERVORIO</text>
+  <text
+     x="77"
+     y="86"
+     class="sublabel"
+     id="text3">Cavidad oral</text>
+  <text
+     x="77"
+     y="99"
+     class="sublabel"
+     id="text4">Sangre, saliva</text>
+  <!-- Arrow -->
+  <line
+     x1="141"
+     y1="71"
+     x2="171"
+     y2="71"
+     stroke="#e74c3c"
+     stroke-width="2"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <!-- Puerta salida -->
+  <rect
+     x="172"
+     y="36"
+     width="130"
+     height="70"
+     class="box"
+     fill="#e67e22"
+     stroke="#d35400"
+     id="rect4" />
+  <text
+     x="237"
+     y="66"
+     class="label"
+     id="text5">PUERTA DE</text>
+  <text
+     x="237"
+     y="81"
+     class="label"
+     id="text6">SALIDA</text>
+  <text
+     x="237"
+     y="99"
+     class="sublabel"
+     id="text7">Aerosoles, sangre</text>
+  <!-- Arrow -->
+  <line
+     x1="303"
+     y1="71"
+     x2="333"
+     y2="71"
+     stroke="#e74c3c"
+     stroke-width="2"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <!-- Modo transmisión -->
+  <rect
+     x="336"
+     y="36"
+     width="130"
+     height="70"
+     class="box"
+     fill="#f1c40f"
+     stroke="#f39c12"
+     id="rect7" />
+  <text
+     x="401"
+     y="66"
+     class="label"
+     fill="#2c3e50"
+     id="text8">MODO DE</text>
+  <text
+     x="401"
+     y="81"
+     class="label"
+     fill="#2c3e50"
+     id="text9">TRANSMISIÓN</text>
+  <text
+     x="401"
+     y="99"
+     class="sublabel"
+     fill="#2c3e50"
+     id="text10">Contacto, aérea</text>
+  <!-- Arrow -->
+  <line
+     x1="467"
+     y1="71"
+     x2="497"
+     y2="71"
+     stroke="#e74c3c"
+     stroke-width="2"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <!-- Puerta entrada -->
+  <rect
+     x="500"
+     y="36"
+     width="130"
+     height="70"
+     class="box"
+     fill="#27ae60"
+     stroke="#1e8449"
+     id="rect10" />
+  <text
+     x="565"
+     y="66"
+     class="label"
+     id="text11">PUERTA DE</text>
+  <text
+     x="565"
+     y="81"
+     class="label"
+     id="text12">ENTRADA</text>
+  <text
+     x="565"
+     y="99"
+     class="sublabel"
+     id="text13">Mucosas, heridas</text>
+  <!-- Arrow -->
+  <line
+     x1="631"
+     y1="71"
+     x2="661"
+     y2="71"
+     stroke="#e74c3c"
+     stroke-width="2"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <!-- Huésped -->
+  <rect
+     x="664"
+     y="36"
+     width="100"
+     height="70"
+     class="box"
+     fill="#8e44ad"
+     stroke="#7d3c98"
+     id="rect13" />
+  <text
+     x="714"
+     y="66"
+     class="label"
+     id="text14">HUÉSPED</text>
+  <text
+     x="714"
+     y="81"
+     class="label"
+     id="text15">SUSCEPTIBLE</text>
+  <text
+     x="714"
+     y="99"
+     class="sublabel"
+     id="text16">Personal dental</text>
+  <!-- Break line -->
+  <text
+     x="394.28635"
+     y="128.62473"
+     class="break-text"
+     id="text17">LA BIOSEGURIDAD BUSCA ROMPER CUALQUIER ESLABÓN</text>
+  <!-- Break symbols -->
+</svg>

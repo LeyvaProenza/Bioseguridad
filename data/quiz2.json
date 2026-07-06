@@ -1,0 +1,112 @@
+[
+  {
+    "question": "¿Cuál es la diferencia principal entre asepsia y antisepsia?",
+    "options": [
+      "Asepsia = libre de microorganismos; Antisepsia = uso de químicos en tejidos vivos",
+      "Son conceptos exactamente iguales",
+      "La asepsia se usa solo en laboratorios; la antisepsia solo en hospitales",
+      "La antisepsia es más efectiva que la asepsia"
+    ],
+    "correct": 0,
+    "feedback": "La asepsia busca mantener ambientes libres de microorganismos, mientras que la antisepsia utiliza agentes químicos sobre tejidos vivos para destruir patógenos."
+  },
+  {
+    "question": "¿Cuáles son los tres tipos principales de microorganismos presentes en el entorno dental?",
+    "options": [
+      "Bacterias, virus y hongos",
+      "Parásitos, algas y protozoos",
+      "Radiaciones, toxinas y gases",
+      "Hongos, plantas y animales"
+    ],
+    "correct": 0,
+    "feedback": "Los microorganismos que más riesgo representan en odontología son bacterias (como Streptococcus), virus (HIV, hepatitis) y hongos (Candida)."
+  },
+  {
+    "question": "¿Qué equipo se utiliza para esterilización por vapor a presión?",
+    "options": [
+      "Autoclave",
+      "Estufa de calor seco",
+      " twórcula de óxido de etileno",
+      "Lámpara UV"
+    ],
+    "correct": 0,
+    "feedback": "La autoclave utiliza vapor de agua a alta presión y temperatura (121-134°C) para lograr la esterilización del instrumental."
+  },
+  {
+    "question": "¿Cuál es la temperatura de esterilización en autoclave convencional?",
+    "options": [
+      "121°C durante 15-30 minutos",
+      "100°C durante 60 minutos",
+      "200°C durante 5 minutos",
+      "80°C durante 45 minutos"
+    ],
+    "correct": 0,
+    "feedback": "La autoclave convencional opera a 121°C con presión de 15 libras/pulg² durante 15-30 minutos para garantizar la destrucción de esporas."
+  },
+  {
+    "question": "¿Qué significa 'desinfección de alto nivel'?",
+    "options": [
+      "Elimina todos los microorganismos excepto esporas bacterianas",
+      "Solo elimina bacterias visibles",
+      "Es igual a la esterilización",
+      "No requiere equipos especiales"
+    ],
+    "correct": 0,
+    "feedback": "La desinfección de alto nivel elimina todos los microorganismos vegetativos, hongos y la mayoría de virus, pero no garantiza la destrucción de esporas."
+  },
+  {
+    "question": "¿Cuáles son las categorías de residuos biosanitarios según el MSP?",
+    "options": [
+      "Infecciosos, cortopunzantes, químicos, farmacéuticos y generales",
+      "Solo residuos orgánicos e inorgánicos",
+      "Residuos negros y residuos blancos",
+      "Residuos reciclables y no reciclables"
+    ],
+    "correct": 0,
+    "feedback": "Los residuos biosanitarios se clasifican en: infecciosos, cortopunzantes, químicos, farmacéuticos, radioactivos y especiales, además de generales."
+  },
+  {
+    "question": "¿Cuál es el antiséptico de elección para la preparación de la piel del paciente antes de un procedimiento?",
+    "options": [
+      "Yodopovidona o clorhexidina alcohólica",
+      "Jabón común sin aditivos",
+      "Agua destilada tibia",
+      "Alcohol al 50%"
+    ],
+    "correct": 0,
+    "feedback": "La yodopovidona al 1-10% y la clorhexidina alcohólica al 2% son los antisépticos estándar para preparación de la piel antes de procedimientos invasivos."
+  },
+  {
+    "question": "¿Qué es el 'Protocolo púrpura' del MSP Ecuador?",
+    "options": [
+      "Norma para prevenir y manejar exposiciones a sangre y fluidos corporales",
+      "Guía de diseño de consultorios dentales",
+      "Manual de ergonomía odontológica",
+      "Reglamento de horarios de atención"
+    ],
+    "correct": 0,
+    "feedback": "El Protocolo púrpura establece medidas para prevenir accidentes de exposición y el manejo adecuado cuando estos ocurren (lavado, profilaxis, seguimiento)."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre desinfección y esterilización?",
+    "options": [
+      "La desinfección reduce microorganismos; la esterilización los elimina todos, incluidas esporas",
+      "Son exactamente lo mismo",
+      "La esterilización es menos completa que la desinfección",
+      "Solo se usa desinfección en odontología"
+    ],
+    "correct": 0,
+    "feedback": "La desinfección elimina la mayoría de patógenos pero no esporas, mientras que la esterilización destruye toda forma de vida microbiana, incluidas las esporas bacterianas."
+  },
+  {
+    "question": "¿Por qué es importante el control y monitoreo de la esterilización?",
+    "options": [
+      "Para verificar que el proceso fue efectivo y el instrumental está seguro para usar",
+      "Solo es requisito administrativo",
+      "Para ahorrar tiempo en el laboratorio",
+      "No es necesario si se sigue el protocolo"
+    ],
+    "correct": 0,
+    "feedback": "El control con indicadores biológicos y químicos verifica que las condiciones de tiempo, temperatura y presión se cumplieron, garantizando instrumental seguro."
+  }
+]

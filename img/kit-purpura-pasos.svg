@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280">
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#9b59b6"/>
+    </marker>
+    <style>
+      .title { font-family: system-ui; font-size: 16px; font-weight: 700; fill: #2c3e50; text-anchor: middle; }
+      .step-num { font-family: system-ui; font-size: 18px; font-weight: 700; fill: #fff; text-anchor: middle; }
+      .step-title { font-family: system-ui; font-size: 12px; font-weight: 700; fill: #2c3e50; text-anchor: middle; }
+      .step-desc { font-family: system-ui; font-size: 9px; fill: #5d6d7e; text-anchor: middle; }
+      .time { font-family: system-ui; font-size: 9px; fill: #e74c3c; font-weight: 700; text-anchor: middle; }
+    </style>
+  </defs>
+  <text x="400" y="25" class="title">Protocolo ante Accidente de Exposición Ocupacional (AEE)</text>
+
+  <!-- Step 1 -->
+  <circle cx="80" cy="90" r="30" fill="#e74c3c"/>
+  <text x="80" y="96" class="step-num">1</text>
+  <text x="80" y="140" class="step-title">CONTENER</text>
+  <text x="80" y="155" class="step-desc">No exprimir pinchazo</text>
+  <text x="80" y="167" class="step-desc">Dejar sangrar 1-2 min</text>
+  <text x="80" y="179" class="step-desc">Lavar con jabón y agua</text>
+  <text x="80" y="195" class="time">INMEDIATO</text>
+
+  <line x1="115" y1="90" x2="155" y2="90" stroke="#9b59b6" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Step 2 -->
+  <circle cx="190" cy="90" r="30" fill="#e67e22"/>
+  <text x="190" y="96" class="step-num">2</text>
+  <text x="190" y="140" class="step-title">REPORTAR</text>
+  <text x="190" y="155" class="step-desc">Notificar supervisor</text>
+  <text x="190" y="167" class="step-desc">Documentar en formato AEE</text>
+  <text x="190" y="179" class="step-desc">Registrar fecha, hora, tipo</text>
+  <text x="190" y="195" class="time">INMEDIATO</text>
+
+  <line x1="225" y1="90" x2="265" y2="90" stroke="#9b59b6" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Step 3 -->
+  <circle cx="300" cy="90" r="30" fill="#f39c12"/>
+  <text x="300" y="96" class="step-num">3</text>
+  <text x="300" y="140" class="step-title">EVALUAR</text>
+  <text x="300" y="155" class="step-desc">Identificar paciente fuente</text>
+  <text x="300" y="167" class="step-desc">Pruebas: HIV, HBV, HCV</text>
+  <text x="300" y="179" class="step-desc">Evaluar profundidad herida</text>
+  <text x="300" y="195" class="time">DENTRO DE 24h</text>
+
+  <line x1="335" y1="90" x2="375" y2="90" stroke="#9b59b6" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Step 4 -->
+  <circle cx="410" cy="90" r="30" fill="#27ae60"/>
+  <text x="410" y="96" class="step-num">4</text>
+  <text x="410" y="140" class="step-title">KIT PÚRPURA</text>
+  <text x="410" y="155" class="step-desc">Iniciar profilaxis (PEP)</text>
+  <text x="410" y="167" class="step-desc">Antirretrovirales × 28 días</text>
+  <text x="410" y="179" class="step-desc">Ideal &lt;2h, máx 72h</text>
+  <text x="410" y="195" class="time">≤ 72 HORAS</text>
+
+  <line x1="445" y1="90" x2="485" y2="90" stroke="#9b59b6" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Step 5 -->
+  <circle cx="520" cy="90" r="30" fill="#2980b9"/>
+  <text x="520" y="96" class="step-num">5</text>
+  <text x="520" y="140" class="step-title">SEGUIMIENTO</text>
+  <text x="520" y="155" class="step-desc">Serología: basal, 3, 6, 12 meses</text>
+  <text x="520" y="167" class="step-desc">HIV: hasta 18 meses</text>
+  <text x="520" y="179" class="step-desc">Documentar resultados</text>
+  <text x="520" y="195" class="time">SEMANAS/MESES</text>
+
+  <!-- medications box -->
+  <rect x="600" y="50" width="185" height="160" rx="10" fill="#f3f0ff" stroke="#9b59b6" stroke-width="1.5"/>
+  <text x="692" y="75" class="step-title" fill="#9b59b6">Medicamentos PEP</text>
+  <text x="615" y="100" class="step-desc" style="text-anchor:start"><tspan font-weight="600" fill="#2c3e50">HIV:</tspan> Tenofovir + Emtricitabina</text>
+  <text x="615" y="115" class="step-desc" style="text-anchor:start">    + Raltegravir × 28 días</text>
+  <text x="615" y="138" class="step-desc" style="text-anchor:start"><tspan font-weight="600" fill="#2c3e50">HBV:</tspan> HBIG + vacuna</text>
+  <text x="615" y="153" class="step-desc" style="text-anchor:start">    (si anti-HBs &lt; 10 mUI/mL)</text>
+  <text x="615" y="176" class="step-desc" style="text-anchor:start"><tspan font-weight="600" fill="#2c3e50">HCV:</tspan> Sin profilaxis</text>
+  <text x="615" y="191" class="step-desc" style="text-anchor:start">    Seguimiento serológico</text>
+
+  <!-- Footer -->
+  <text x="400" y="250" font-family="system-ui" font-size="11" fill="#5d6d7e" text-anchor="middle">Kit Púrpura — MSP Ecuador · Obligatorio en todos los establecimientos de salud</text>
+  <text x="400" y="268" font-family="system-ui" font-size="10" fill="#9b59b6" text-anchor="middle" font-weight="600">⚠️ No confundir con el Código Púrpura (atención por violencia de género)</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250">
+  <defs>
+    <style>
+      .title { font-family: system-ui; font-size: 16px; font-weight: 700; fill: #2c3e50; text-anchor: middle; }
+      .col-title { font-family: system-ui; font-size: 12px; font-weight: 700; fill: #fff; text-anchor: middle; }
+      .col-items { font-family: system-ui; font-size: 10px; fill: #2c3e50; }
+      .col-header { font-family: system-ui; font-size: 11px; font-weight: 600; fill: #2c3e50; text-anchor: middle; }
+      .check { font-family: system-ui; font-size: 11px; fill: #27ae60; text-anchor: middle; font-weight: 700; }
+      .cross { font-family: system-ui; font-size: 11px; fill: #e74c3c; text-anchor: middle; font-weight: 700; }
+    </style>
+  </defs>
+  <text x="400" y="25" class="title">Niveles de Desinfección y Esterilización</text>
+
+  <!-- Header row -->
+  <rect x="20" y="45" width="180" height="30" rx="4" fill="#ecf0f1"/>
+  <text x="110" y="65" class="col-header">Nivel</text>
+  <rect x="210" y="45" width="150" height="30" rx="4" fill="#ecf0f1"/>
+  <text x="285" y="65" class="col-header">Agentes</text>
+  <rect x="370" y="45" width="150" height="30" rx="4" fill="#ecf0f1"/>
+  <text x="445" y="65" class="col-header">Uso</text>
+  <rect x="530" y="45" width="80" height="30" rx="4" fill="#ecf0f1"/>
+  <text x="570" y="65" class="col-header">Bact.</text>
+  <rect x="620" y="45" width="80" height="30" rx="4" fill="#ecf0f1"/>
+  <text x="660" y="65" class="col-header">Virus</text>
+  <rect x="710" y="45" width="70" height="30" rx="4" fill="#ecf0f1"/>
+  <text x="745" y="65" class="col-header">Esporas</text>
+
+  <!-- Nivel Bajo -->
+  <rect x="20" y="80" width="180" height="50" rx="4" fill="#27ae60"/>
+  <text x="110" y="102" class="col-title">NIVEL BAJO</text>
+  <text x="110" y="118" class="col-title" style="font-size:9px">Hipoclorito 0.1-0.5%</text>
+  <text x="285" y="100" class="col-items">Superficies baja</text>
+  <text x="285" y="115" class="col-items">contaminación</text>
+  <text x="445" y="108" class="col-items">Escritorios, muebles</text>
+  <text x="570" y="108" class="check">✓</text>
+  <text x="660" y="108" class="cross">✗ lipofílicos</text>
+  <text x="745" y="108" class="cross">✗</text>
+
+  <!-- Nivel Medio -->
+  <rect x="20" y="135" width="180" height="50" rx="4" fill="#f39c12"/>
+  <text x="110" y="157" class="col-title">NIVEL MEDIO</text>
+  <text x="110" y="173" class="col-title" style="font-size:9px">Hipoclorito 0.5-1%</text>
+  <text x="285" y="155" class="col-items">Superficies contacto</text>
+  <text x="285" y="170" class="col-items">moderado</text>
+  <text x="445" y="163" class="col-items">Mesas, sillón dental</text>
+  <text x="570" y="163" class="check">✓</text>
+  <text x="660" y="163" class="check">✓</text>
+  <text x="745" y="163" class="cross">✗</text>
+
+  <!-- Nivel Alto -->
+  <rect x="20" y="190" width="180" height="50" rx="4" fill="#e74c3c"/>
+  <text x="110" y="212" class="col-title">NIVEL ALTO</text>
+  <text x="110" y="228" class="col-title" style="font-size:9px">Glutaraldehído 2%</text>
+  <text x="285" y="208" class="col-items">Equipos críticos</text>
+  <text x="285" y="223" class="col-items">termolábiles</text>
+  <text x="445" y="216" class="col-items">Endoscopios</text>
+  <text x="570" y="216" class="check">✓</text>
+  <text x="660" y="216" class="check">✓</text>
+  <text x="745" y="216" class="cross">≈</text>
+
+  <!-- Esterilización -->
+  <rect x="20" y="245" width="180" height="0" rx="0" fill="none"/>
+  <text x="110" y="248" class="col-header" fill="#9b59b6" style="font-size:10px">ESTERILIZACIÓN</text>
+</svg>

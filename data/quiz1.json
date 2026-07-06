@@ -1,0 +1,112 @@
+[
+  {
+    "question": "¿Cuál es el objetivo principal de la bioseguridad en odontología?",
+    "options": [
+      "Evitar el contagio de enfermedades entre pacientes y personal",
+      "Reducir costos del consultorio dental",
+      "Aumentar la productividad del equipo de trabajo",
+      "Cumplir requisitos administrativos únicamente"
+    ],
+    "correct": 0,
+    "feedback": "La bioseguridad tiene como objetivo primordial prevenir la transmisión de infecciones protegiendo tanto al paciente como al personal dental."
+  },
+  {
+    "question": "¿Cuáles son los tres tipos de riesgos que se presentan en odontología?",
+    "options": [
+      "Biológicos, químicos y físicos",
+      "Eléctricos, magnéticos y nucleares",
+      "Financieros, legales y administrativos",
+      "Emocionales, sociales y económicos"
+    ],
+    "correct": 0,
+    "feedback": "Los riesgos en odontología se clasifican en biológicos (sangre, saliva), químicos (amalgama, solventes) y físicos (radiaciones, pinchazos)."
+  },
+  {
+    "question": "¿Qué significa 'condiciones subestándar' en seguridad ocupacional?",
+    "options": [
+      "Deficiencias en el ambiente de trabajo que aumentan el riesgo de accidentes",
+      "Equipos de última generación disponibles en el consultorio",
+      "Protocolos de bioseguridad excesivamente estrictos",
+      "Horarios de trabajo excesivamente largos"
+    ],
+    "correct": 0,
+    "feedback": "Las condiciones subestándar son deficiencias ambientales como iluminación inadecuada, pisos resbalosos o equipos defectuosos que incrementan la probabilidad de accidentes."
+  },
+  {
+    "question": "¿Qué tipo de riesgo representa la sangre y la saliva en odontología?",
+    "options": [
+      "Riesgo biológico",
+      "Riesgo químico",
+      "Riesgo físico",
+      "Riesgo psicosocial"
+    ],
+    "correct": 0,
+    "feedback": "La sangre y la saliva son los principales agentes de riesgo biológico en odontología, pudiendo transmitir HIV, hepatitis B y hepatitis C."
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un elemento de protección personal (EPP) en odontología?",
+    "options": [
+      "Estetoscopio",
+      "Guantes de látex",
+      "Mascarilla quirúrgica",
+      "Pantalón de protección"
+    ],
+    "correct": 0,
+    "feedback": "El estetoscopio es un equipo de diagnóstico, no un EPP. Los guantes, mascarillas y pantalones de protección sí son elementos de protección personal."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre un accidente y un incidente laboral?",
+    "options": [
+      "El accidente causa lesión; el incidente es un evento sin lesión que pudo haberla causado",
+      "No hay diferencia, son sinónimos",
+      "El incidente es más grave que el accidente",
+      "Solo ocurren en hospitales, no en consultorios dentales"
+    ],
+    "correct": 0,
+    "feedback": "El accidente laboral resulta en lesión o daño, mientras que el incidente es un evento fortuito que pudo haber causado una lesión pero no lo hizo."
+  },
+  {
+    "question": "¿Qué es un 'acto subestándar' en el contexto de seguridad laboral?",
+    "options": [
+      "Una acción del trabajador que incumple los protocolos de seguridad",
+      "Un defecto en el equipamiento del consultorio",
+      "Una condición ambiental peligrosa",
+      "Una norma legal obsoleta"
+    ],
+    "correct": 0,
+    "feedback": "Los actos subestándar son comportamientos inseguros del trabajador, como no usar guantes, no lavarse las manos o manipular instrumental sin protección."
+  },
+  {
+    "question": "¿Cuáles son los niveles de bioseguridad que se aplican según el tipo de riesgo?",
+    "options": [
+      "Niveles 1, 2, 3 y 4, de menor a mayor peligrosidad",
+      "Solo existe un nivel único de bioseguridad",
+      "Niveles A, B y C según el tipo de material",
+      "Niveles determinados por el paciente"
+    ],
+    "correct": 0,
+    "feedback": "Los niveles de bioseguridad van del 1 al 4, donde el nivel 1 es para riesgo básico y el nivel 4 para agentes de máxima peligrosidad (como Ébola)."
+  },
+  {
+    "question": "¿Cuál es la importancia de la inmunización del personal odontológico?",
+    "options": [
+      "Proteger al profesional de enfermedades transmisibles por exposición ocupacional",
+      "Cumplir requisitos burocráticos de la universidad",
+      "No tiene importancia real en la práctica clínica",
+      "Solo es necesaria para trabajadores de hospitales"
+    ],
+    "correct": 0,
+    "feedback": "La inmunización (especialmente hepatitis B) protege al personal de las enfermedades infecciosas que puede contraer durante procedimientos dentales."
+  },
+  {
+    "question": "¿Cuál es la técnica correcta de lavado de manos en odontología?",
+    "options": [
+      "Frotar con jabón y agua durante al menos 20 segundos, cubriendo todas las superficies",
+      "Enjuagar con agua sin usar jabón",
+      "Limpiar solo las palmas de las manos durante 5 segundos",
+      "Usar solo gel antibacteriano sin agua"
+    ],
+    "correct": 0,
+    "feedback": "El lavado de manos correcto requiere jabón y agua durante al menos 20 segundos, frotando palmas, dorso, espacios interdigitales y uñas."
+  }
+]

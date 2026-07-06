@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 800 250"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="tipos-aee.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.2597623"
+     inkscape:cx="411.83985"
+     inkscape:cy="115.19245"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <text
+     x="400"
+     y="25"
+     font-family="system-ui"
+     font-size="17"
+     font-weight="700"
+     fill="#2c3e50"
+     text-anchor="middle"
+     id="text1">Tipos de Accidentes de Exposición Ocupacional</text>
+  <!-- Pinchazo -->
+  <rect
+     x="10"
+     y="45"
+     width="250"
+     height="140"
+     rx="12"
+     fill="#e74c3c"
+     id="rect1" />
+  <text
+     x="135"
+     y="75"
+     font-family="system-ui"
+     font-size="14"
+     font-weight="700"
+     fill="#fff"
+     text-anchor="middle"
+     id="text2"
+     style="-inkscape-font-specification:'system-ui, Bold';font-family:system-ui;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.6667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff">Pinchazo (80%)</text>
+  <text
+     x="135"
+     y="95"
+     font-family="system-ui"
+     font-size="10"
+     fill="#fdedec"
+     text-anchor="middle"
+     id="text3"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#fdedec">Herida con cortopunzante</text>
+  <line
+     x1="30"
+     y1="105"
+     x2="240"
+     y2="105"
+     stroke="#fff"
+     stroke-opacity="0.3"
+     id="line3" />
+  <text
+     x="30"
+     y="122"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fdedec"
+     id="text4"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Agujas de anestesia</text>
+  <text
+     x="30"
+     y="136"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fdedec"
+     id="text5"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Hojas de bisturí</text>
+  <text
+     x="30"
+     y="150"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fdedec"
+     id="text6"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Brocas, limas</text>
+  <text
+     x="30"
+     y="168"
+     font-family="system-ui"
+     font-size="10"
+     fill="#fff"
+     font-weight="600"
+     id="text7"
+     style="-inkscape-font-specification:'system-ui, Semi-Bold';font-family:system-ui;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">Riesgo: profundo + sangre visible</text>
+  <!-- Mucosas -->
+  <rect
+     x="275"
+     y="45"
+     width="250"
+     height="140"
+     rx="12"
+     fill="#e67e22"
+     id="rect7" />
+  <text
+     x="400"
+     y="75"
+     font-family="system-ui"
+     font-size="14"
+     font-weight="700"
+     fill="#fff"
+     text-anchor="middle"
+     id="text8"
+     style="-inkscape-font-specification:'system-ui, Bold';font-family:system-ui;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mucosas</text>
+  <text
+     x="400"
+     y="95"
+     font-family="system-ui"
+     font-size="10"
+     fill="#fef9e7"
+     text-anchor="middle"
+     id="text9"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Salpicaduras de sangre/saliva</text>
+  <line
+     x1="295"
+     y1="105"
+     x2="505"
+     y2="105"
+     stroke="#fff"
+     stroke-opacity="0.3"
+     id="line9" />
+  <text
+     x="295"
+     y="122"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fef9e7"
+     id="text10"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Ojos (más frecuente)</text>
+  <text
+     x="295"
+     y="136"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fef9e7"
+     id="text11"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Nariz</text>
+  <text
+     x="295"
+     y="150"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fef9e7"
+     id="text12"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Boca</text>
+  <text
+     x="295"
+     y="168"
+     font-family="system-ui"
+     font-size="10"
+     fill="#fff"
+     font-weight="600"
+     id="text13"
+     style="-inkscape-font-specification:'system-ui, Semi-Bold';font-family:system-ui;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Aerosoles alcanzan 2 metros</text>
+  <!-- Cutánea -->
+  <rect
+     x="540"
+     y="45"
+     width="250"
+     height="140"
+     rx="12"
+     fill="#f39c12"
+     id="rect13" />
+  <text
+     x="665"
+     y="75"
+     font-family="system-ui"
+     font-size="14"
+     font-weight="700"
+     fill="#fff"
+     text-anchor="middle"
+     id="text14"
+     style="-inkscape-font-specification:'system-ui, Bold';font-family:system-ui;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Cutánea</text>
+  <text
+     x="665"
+     y="95"
+     font-family="system-ui"
+     font-size="10"
+     fill="#fef9e7"
+     text-anchor="middle"
+     id="text15"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Contacto con piel lesionada</text>
+  <line
+     x1="560"
+     y1="105"
+     x2="770"
+     y2="105"
+     stroke="#fff"
+     stroke-opacity="0.3"
+     id="line15" />
+  <text
+     x="560"
+     y="122"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fef9e7"
+     id="text16"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Heridas abiertas</text>
+  <text
+     x="560"
+     y="136"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fef9e7"
+     id="text17"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Dermatitis, eccemas</text>
+  <text
+     x="560"
+     y="150"
+     font-family="system-ui"
+     font-size="9"
+     fill="#fef9e7"
+     id="text18"
+     style="-inkscape-font-specification:'system-ui, Normal';font-family:system-ui;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">• Piel agrietada</text>
+  <text
+     x="560"
+     y="168"
+     font-family="system-ui"
+     font-size="10"
+     fill="#fff"
+     font-weight="600"
+     id="text19"
+     style="-inkscape-font-specification:'system-ui, Semi-Bold';font-family:system-ui;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Riesgo: piel no intacta</text>
+  <!-- Probabilidades -->
+  <rect
+     x="10"
+     y="200"
+     width="780"
+     height="40"
+     rx="8"
+     fill="#f8f9fa"
+     stroke="#dce1e8"
+     id="rect19" />
+  <text
+     x="400"
+     y="225"
+     font-family="system-ui"
+     font-size="12"
+     fill="#2c3e50"
+     text-anchor="middle"
+     font-weight="600"
+     id="text20"
+     style="-inkscape-font-specification:'system-ui, Semi-Bold';font-family:system-ui;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.3333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#2c3e50">Transmisión por pinchazo: HBV 6-30% · HCV 1.8% · HIV 0.3%</text>
+</svg>

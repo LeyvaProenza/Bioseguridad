@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <text x="400" y="22" font-family="system-ui" font-size="16" font-weight="700" fill="#2c3e50" text-anchor="middle">Evolución Histórica de la Asepsia y Antisepsia</text>
+
+  <!-- Línea temporal -->
+  <line x1="40" y1="100" x2="760" y2="100" stroke="#3498db" stroke-width="3"/>
+
+  <!-- 1847 -->
+  <circle cx="100" cy="100" r="12" fill="#e74c3c"/>
+  <text x="100" y="85" font-family="system-ui" font-size="11" font-weight="700" fill="#e74c3c" text-anchor="middle">1847</text>
+  <text x="100" y="125" font-family="system-ui" font-size="9" fill="#2c3e50" text-anchor="middle">Semmelweis</text>
+  <text x="100" y="138" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Lavado de manos</text>
+  <text x="100" y="149" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Mortalidad 18%→2%</text>
+
+  <!-- 1867 -->
+  <circle cx="230" cy="100" r="12" fill="#e67e22"/>
+  <text x="230" y="85" font-family="system-ui" font-size="11" font-weight="700" fill="#e67e22" text-anchor="middle">1867</text>
+  <text x="230" y="125" font-family="system-ui" font-size="9" fill="#2c3e50" text-anchor="middle">Lister</text>
+  <text x="230" y="138" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Antisepsia quirúrgica</text>
+  <text x="230" y="149" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Ácido fénico</text>
+
+  <!-- 1895 -->
+  <circle cx="360" cy="100" r="12" fill="#f39c12"/>
+  <text x="360" y="85" font-family="system-ui" font-size="11" font-weight="700" fill="#f39c12" text-anchor="middle">1895</text>
+  <text x="360" y="125" font-family="system-ui" font-size="9" fill="#2c3e50" text-anchor="middle">Röntgen</text>
+  <text x="360" y="138" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Rayos X</text>
+  <text x="360" y="149" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Protección radiológica</text>
+
+  <!-- 1929 -->
+  <circle cx="490" cy="100" r="12" fill="#27ae60"/>
+  <text x="490" y="85" font-family="system-ui" font-size="11" font-weight="700" fill="#27ae60" text-anchor="middle">1929</text>
+  <text x="490" y="125" font-family="system-ui" font-size="9" fill="#2c3e50" text-anchor="middle">Fleming</text>
+  <text x="490" y="138" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Penicilina</text>
+  <text x="490" y="149" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Era de antibióticos</text>
+
+  <!-- 1983 -->
+  <circle cx="620" cy="100" r="12" fill="#2980b9"/>
+  <text x="620" y="85" font-family="system-ui" font-size="11" font-weight="700" fill="#2980b9" text-anchor="middle">1983</text>
+  <text x="620" y="125" font-family="system-ui" font-size="9" fill="#2c3e50" text-anchor="middle">CDC</text>
+  <text x="620" y="138" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Precauciones</text>
+  <text x="620" y="149" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Universales</text>
+
+  <!-- 1996 -->
+  <circle cx="730" cy="100" r="12" fill="#9b59b6"/>
+  <text x="730" y="85" font-family="system-ui" font-size="11" font-weight="700" fill="#9b59b6" text-anchor="middle">1996</text>
+  <text x="730" y="125" font-family="system-ui" font-size="9" fill="#2c3e50" text-anchor="middle">CDC</text>
+  <text x="730" y="138" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Precauciones</text>
+  <text x="730" y="149" font-family="system-ui" font-size="8" fill="#5d6d7e" text-anchor="middle">Estándar actuales</text>
+
+  <text x="400" y="185" font-family="system-ui" font-size="10" fill="#5d6d7e" text-anchor="middle">150+ años de evolución hacia protocolos basados en evidencia científica</text>
+</svg>
