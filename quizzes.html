@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Glosario de Términos</title>
+  <title>Quizzes — Bioseguridad y Salud Ocupacional</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -17,7 +17,7 @@
         <li><a href="index.html"><span class="unit-icon special">🏠</span> Inicio</a></li>
         <li>
           <a href="#" class="toggle-unit" data-unit="1">
-            <span class="unit-icon u1">1</span> Generalidades
+            <span class="unit-icon u1">1</span> Generalidades de la Bioseguridad
             <span class="chevron">▶</span>
           </a>
           <ul class="subtopics" id="sub-1">
@@ -62,6 +62,7 @@
             <li><a href="pages/unidad4.html#s4-1">4.1 Protocolos de Ergonomía</a></li>
             <li><a href="pages/unidad4.html#s4-2">4.2 Normativas Legales</a></li>
             <li><a href="pages/unidad4.html#s4-3">4.3 Reglamento del MSP</a></li>
+            <li><a href="pages/unidad4.html#s4-4">4.4 Protocolo y Código Púrpura</a></li>
           </ul>
         </li>
         <li><a href="quizzes.html"><span class="unit-icon special">📝</span> Quizzes</a></li>
@@ -75,23 +76,75 @@
   <div class="main">
     <div class="topbar">
       <button class="menu-toggle" id="menuToggle">☰</button>
-      <div class="breadcrumb">Inicio / <span>Glosario</span></div>
+      <div class="breadcrumb">Inicio / <span>Quizzes</span></div>
     </div>
 
     <div class="content">
-      <div class="glossary-header">
-        <h1>📖 Glosario de Términos</h1>
-        <p>Definiciones clave de bioseguridad, asepsia, ergonomía y salud ocupacional en odontología.</p>
-        <input type="text" id="glossary-search" class="glossary-search" placeholder="Buscar término...">
+      <div class="page-header">
+        <span class="unit-tag" style="background:#2c3e50;">📝</span>
+        <h1>Quizzes de Repaso</h1>
       </div>
 
-      <div class="letter-nav" id="letter-nav"></div>
+      <!-- Quiz Unidad 1 -->
+      <div class="topic-section">
+        <div class="topic-header">
+          <div class="topic-num" style="background:#e74c3c;">1</div>
+          <h2>Unidad 1 — Generalidades de la Bioseguridad</h2>
+          <span class="toggle">▼</span>
+        </div>
+        <div class="topic-body open">
+          <div class="topic-content">
+            <div class="quiz-container" id="quiz-container-1"></div>
+          </div>
+        </div>
+      </div>
 
-      <div id="glossary-items" class="glossary-list"></div>
+      <!-- Quiz Unidad 2 -->
+      <div class="topic-section">
+        <div class="topic-header">
+          <div class="topic-num" style="background:#3498db;">2</div>
+          <h2>Unidad 2 — Asepsia y Antisepsia</h2>
+          <span class="toggle">▼</span>
+        </div>
+        <div class="topic-body open">
+          <div class="topic-content">
+            <div class="quiz-container" id="quiz-container-2"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quiz Unidad 3 -->
+      <div class="topic-section">
+        <div class="topic-header">
+          <div class="topic-num" style="background:#f39c12;">3</div>
+          <h2>Unidad 3 — Salud Ocupacional y Ergonomía</h2>
+          <span class="toggle">▼</span>
+        </div>
+        <div class="topic-body open">
+          <div class="topic-content">
+            <div class="quiz-container" id="quiz-container-3"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quiz Unidad 4 -->
+      <div class="topic-section">
+        <div class="topic-header">
+          <div class="topic-num" style="background:#9b59b6;">4</div>
+          <h2>Unidad 4 — Protocolos y Normativa</h2>
+          <span class="toggle">▼</span>
+        </div>
+        <div class="topic-body open">
+          <div class="topic-content">
+            <div class="quiz-container" id="quiz-container-4"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 
   <script src="js/main.js"></script>
-  <script src="js/glossary.js"></script>
+  <script src="js/quiz.js"></script>
 </body>
 </html>
