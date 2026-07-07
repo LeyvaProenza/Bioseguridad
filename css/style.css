@@ -199,34 +199,57 @@ a:hover { text-decoration: underline; }
 
 /* === Hero (index) === */
 .hero {
-  background: linear-gradient(135deg, var(--primary) 0%, #1a6e9e 100%);
+  background: linear-gradient(135deg, var(--primary) 0%, #1B6B93 50%, var(--accent) 100%);
   color: #fff;
-  padding: 48px 32px;
-  border-radius: var(--radius);
+  padding: 56px 40px;
+  border-radius: var(--radius-lg);
   margin-bottom: 32px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image:
+    radial-gradient(circle at 20% 50%, rgba(255,255,255,0.08) 1px, transparent 1px),
+    radial-gradient(circle at 80% 20%, rgba(255,255,255,0.06) 1px, transparent 1px),
+    radial-gradient(circle at 60% 80%, rgba(255,255,255,0.04) 1px, transparent 1px);
+  background-size: 60px 60px, 80px 80px, 40px 40px;
+  pointer-events: none;
 }
 
 .hero h1 {
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin-bottom: 12px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  position: relative;
 }
 
 .hero p {
   font-size: 1.05rem;
-  opacity: 0.9;
-  max-width: 600px;
+  opacity: 0.92;
+  max-width: 620px;
   line-height: 1.7;
+  position: relative;
 }
 
 .hero .badge {
   display: inline-block;
-  background: var(--accent);
+  background: rgba(255,255,255,0.2);
   color: #fff;
-  padding: 4px 12px;
+  padding: 5px 14px;
   border-radius: 20px;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 600;
   margin-top: 16px;
+  backdrop-filter: blur(4px);
+  position: relative;
 }
 
 /* === Unit Cards === */
