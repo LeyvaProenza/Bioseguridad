@@ -733,9 +733,9 @@ a:hover { text-decoration: underline; }
 }
 
 .resource-card {
-  background: var(--card-bg);
+  background: var(--surface);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
-  box-shadow: var(--shadow);
   padding: 20px;
   transition: transform 0.2s;
 }
