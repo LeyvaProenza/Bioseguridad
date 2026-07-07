@@ -54,26 +54,28 @@ a:hover { text-decoration: underline; }
 }
 
 .sidebar-header {
-  padding: 24px 20px 16px;
+  padding: 28px 24px 20px;
   border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 
 .sidebar-header h1 {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   color: #fff;
   font-weight: 700;
-  line-height: 1.3;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
 }
 
 .sidebar-header .subtitle {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   color: var(--accent);
-  margin-top: 4px;
+  margin-top: 6px;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
+  font-weight: 600;
 }
 
-.sidebar nav { padding: 12px 0; }
+.sidebar nav { padding: 16px 0; }
 
 .sidebar nav ul { list-style: none; }
 
@@ -82,10 +84,10 @@ a:hover { text-decoration: underline; }
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 10px 20px;
-  font-size: 0.9rem;
+  padding: 10px 24px;
+  font-size: 0.88rem;
   color: var(--sidebar-text);
-  transition: all 0.2s;
+  transition: all 0.15s;
 }
 
 .sidebar nav > ul > li > a:hover,
@@ -97,26 +99,26 @@ a:hover { text-decoration: underline; }
 
 .sidebar nav > ul > li > a.active {
   border-left: 3px solid var(--accent);
-  padding-left: 17px;
+  padding-left: 21px;
 }
 
 .sidebar .unit-icon {
-  width: 24px;
-  height: 24px;
+  width: 26px;
+  height: 26px;
   border-radius: 6px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 700;
   color: #fff;
   flex-shrink: 0;
 }
 
-.sidebar .unit-icon.u1 { background: #e74c3c; }
-.sidebar .unit-icon.u2 { background: #3498db; }
-.sidebar .unit-icon.u3 { background: #f39c12; }
-.sidebar .unit-icon.u4 { background: #9b59b6; }
+.sidebar .unit-icon.u1 { background: #E63946; }
+.sidebar .unit-icon.u2 { background: #457B9D; }
+.sidebar .unit-icon.u3 { background: #E9C46A; }
+.sidebar .unit-icon.u4 { background: #9B5DE5; }
 .sidebar .unit-icon.special { background: var(--accent); }
 
 .sidebar .subtopics {
@@ -132,10 +134,10 @@ a:hover { text-decoration: underline; }
 
 .sidebar .subtopics li a {
   display: block;
-  padding: 7px 20px 7px 54px;
-  font-size: 0.8rem;
+  padding: 7px 24px 7px 58px;
+  font-size: 0.78rem;
   color: #8899aa;
-  transition: all 0.2s;
+  transition: all 0.15s;
 }
 
 .sidebar .subtopics li a:hover,
@@ -147,7 +149,7 @@ a:hover { text-decoration: underline; }
 
 .sidebar .chevron {
   margin-left: auto;
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   transition: transform 0.2s;
 }
 
