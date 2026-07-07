@@ -136,7 +136,7 @@ a:hover { text-decoration: underline; }
   display: block;
   padding: 7px 24px 7px 58px;
   font-size: 0.78rem;
-  color: #8899aa;
+  color: var(--sidebar-text);
   transition: all 0.15s;
 }
 
