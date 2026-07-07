@@ -1,2 +1,4 @@
 Informacion/
 *.pdf
+extra/
+node_modules/
