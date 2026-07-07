@@ -2,27 +2,32 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --primary: #1a5276;
-  --primary-light: #2980b9;
-  --accent: #27ae60;
-  --accent-light: #2ecc71;
-  --bg: #f4f6f9;
-  --card-bg: #ffffff;
-  --text: #2c3e50;
-  --text-light: #5d6d7e;
-  --border: #dce1e8;
-  --sidebar-bg: #0d1b2a;
-  --sidebar-text: #c8d6e5;
-  --sidebar-active: #27ae60;
-  --shadow: 0 2px 8px rgba(0,0,0,0.08);
-  --radius: 10px;
+  /* Palette */
+  --bg: #F8FAFC;
+  --surface: #FFFFFF;
+  --primary: #0F4C75;
+  --primary-light: #1B6B93;
+  --accent: #00B4D8;
+  --accent-hover: #0096B7;
+  --success: #10B981;
+  --error: #EF4444;
+  --text: #1E293B;
+  --text-light: #64748B;
+  --border: #E2E8F0;
+  --sidebar-bg: #0F4C75;
+  --sidebar-text: #CBD5E1;
+  --sidebar-active: #00B4D8;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 6px rgba(0,0,0,0.05), 0 2px 4px rgba(0,0,0,0.04);
+  --radius: 8px;
+  --radius-lg: 12px;
   --sidebar-width: 280px;
 }
 
 html { scroll-behavior: smooth; }
 
 body {
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
